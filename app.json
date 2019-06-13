@@ -1,0 +1,6 @@
+{
+    "name": "Angular CLI Heroku angular-simples",
+    "description": "The bare minimum starter code that allows users to easily deploy Angular CLI to Heroku.",
+    "repository": "https://github.com/charlesdccti/angular-simples",
+    "keywords": ["angular", "angular-2"]
+}
